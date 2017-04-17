@@ -1,2 +1,2 @@
-# DunkyScript
+# LitScript
 A language project
