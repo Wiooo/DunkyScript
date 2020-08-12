@@ -1,2 +1,2 @@
 # TestScript
-A Python language project from my freshman year of high school.
+A Python language project from my first/second year of high school.
