@@ -1,2 +1,2 @@
-# LitScript
+# TestScript
 A language project
